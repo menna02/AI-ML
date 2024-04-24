@@ -6,4 +6,4 @@ To be able to run this notebook successfully, you need to use import this class 
 Note:
 ** I have made this class file to kinda automate the process of EDA. It contains methods to plot data columns with different data types, and also clean the data from nans, outliers, skewness, more over the columns encodings. 
 
-https://drive.google.com/file/d/1eIPfgu553BQuBycSShc5kcteGn8WvYBn/view?usp=drive_link
+https://colab.research.google.com/drive/1ytFAUvAMgAPQTxEpPncWy8gD3yi2SyCj?usp=sharing
