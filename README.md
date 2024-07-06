@@ -10,14 +10,16 @@ Data Science: Explore my projects and exercises focusing on data analysis, visua
 
 Machine Learning Models: Dive into my exploration of various machine learning algorithms and techniques.
 
+Deep Learning: Completed projects and assignments that demonstrate my understanding of deep learning concepts and techniques.
+
+Computer Vision: My latest module, where I am currently working on projects involving computer vision.
+
+
 ### Future Modules (Coming Soon):
 
 As my journey evolves, I plan to incorporate additional modules covering:
 
 
-Deep Learning
-
-Computer Vision
 
 Natural Language Processing (NLP)
 
