@@ -14,14 +14,15 @@ Deep Learning: Completed projects and assignments that demonstrate my understand
 
 Computer Vision: My latest module, where I am currently working on projects involving computer vision.
 
+Natural Language Processing (NLP): My current module, focusing on projects and assignments involving natural language processing techniques and models.
+
+
 
 ### Future Modules (Coming Soon):
 
 As my journey evolves, I plan to incorporate additional modules covering:
 
 
-
-Natural Language Processing (NLP)
 
 MLOps
 
