@@ -1,6 +1,6 @@
 # *Welcome to My Data Science Journey Repository!*
 
-This repository serves as a platform for sharing my assignments and hands-on projects as I progress on my journey towards becoming a proficient machine learning engineer. Each folder in this repository represents a milestone in my learning process, starting from foundational Python skills, advancing through data science concepts, and currently focusing on various machine learning models.
+This repository serves as a platform for sharing my assignments and hands-on projects as I progress on my journey towards becoming a proficient Data Scientist. Each folder in this repository represents a milestone in my learning process, starting from foundational Python skills, advancing through data science concepts, and currently focusing on various machine and deep learning models.
 
 ### Repository Structure:
 
