@@ -1,0 +1,3 @@
+Pregnances,Skin Thickness,Pedigree,Glucose Level,Insulin Level,Age,Blood Pressure,BMI,output,flag,username,timestamp
+0,0,0,0,1,4,200,90,Diabetic,,,2024-08-30 10:22:47.943990
+0,0,0,0,0,0,0,0,Not Diabetic,,,2024-08-30 10:23:44.325951
