@@ -16,17 +16,10 @@ Computer Vision: My latest module, where I am currently working on projects invo
 
 Natural Language Processing (NLP): My current module, focusing on projects and assignments involving natural language processing techniques and models.
 
+MLOps: This section covers my exploration and understanding of MLOps practices, reflecting the importance of deploying the ML models with different GUI libraries like Stream-lit, Gradio. Also, deploying the ML in RESTful APIs using Flusk.
 
 
-### Future Modules (Coming Soon):
-
-As my journey evolves, I plan to incorporate additional modules covering:
-
-
-
-MLOps
-
-
-Stay tuned as I continue to update and expand this repository with new projects and insights gained along the way.
+### Journey Completion:
+My data science journey has peaked after completing all these modules, including MLOps. I am now focusing on preparing for interviews and working on a comprehensive project that consolidates and applies all the concepts I've learned. This project serves as a continuous practice to refine my skills and maintain a sharp edge in the ever-evolving field of data science.
 
 Feel free to explore, provide feedback, or collaborate on any of the projects. Happy learning!
